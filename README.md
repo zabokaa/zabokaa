@@ -21,7 +21,7 @@
 - 💬 Ask me if you have any questions about me
 - 📫 How to reach me: sabine.kuch.1312@gmail.com
 - or  <a href="https://www.linkedin.com/in/data-scientist-sab-k/">
-            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="_blank">
       </a>
 
 
@@ -36,7 +36,7 @@
 **Expand to view**
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zabokaa&show_icons=true" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zabokaa&show_icons=true">
 </details>
 
 
