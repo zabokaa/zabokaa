@@ -15,11 +15,15 @@
 </pre>
 ✨✨ My name is Sabine Kuch ✨✨ 
 <br>
+- 😄 Pronouns: she/her
 - 🔭 I’m currently working on my very first client-side app using JS
 - 🌱 I’m currently studying Full-Stack Web Development
 - 💬 Ask me if you have any questions about me
 - 📫 How to reach me: sabine.kuch.1312@gmail.com
-- 😄 Pronouns: she/her
+- or  <a href="https://www.linkedin.com/in/data-scientist-sab-k/">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+
 
 
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
