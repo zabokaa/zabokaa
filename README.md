@@ -15,7 +15,7 @@
 </pre>
 ✨✨ My name is Sabine Kuch ✨✨ 
 <br>
-- 😄 Pronouns: she/her
+- 💪 Pronouns: she/her
 - 🔭 I’m currently open to work [remote, US time zone]
 - :basecamp:   Based in Santo Domingo, Republica Dominicana
 - 🌱 I’m currently studying Full-Stack Web Development
