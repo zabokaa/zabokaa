@@ -20,7 +20,7 @@
 - :basecamp:   Based in Santo Domingo, Republica Dominicana
 - 🌱 I’m currently studying Full-Stack Web Development
 - 💬 Ask me if you have any questions about me
-- 📫 How to reach me: sabine.kuch.coding@gmail.com
+- 📫 How to reach me: saba.kuch.coding@gmail.com
 - or  <a href="https://www.linkedin.com/in/data-scientist-sab-k/" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
       </a>
