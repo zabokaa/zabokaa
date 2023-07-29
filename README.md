@@ -13,17 +13,18 @@
 
 
 </pre>
-✨✨ My name is Sabine Kuch ✨✨ 
+✨✨ my name is Sabine Kuch ✨✨ 
 <br>
-- 💪 Pronouns: she/her
-- 🔭 I’m currently open to work [remote or SD]
-- :basecamp:   Based in Santo Domingo, Republica Dominicana
-- 🌱 I’m currently studying Full-Stack Web Development
-- 💬 Ask me if you have any questions about me
-- 📫 How to reach me: saba.kuch.coding@gmail.com
+- 💪 pronouns: she/her
+- 🔭  I’m currently open to work [remote or SD]
+- :basecamp:   based in Santo Domingo, Republica Dominicana
+- 🌱  I’m currently studying Full-Stack Web Development
+- 💬  ask me if you have any questions about me
+- 📫  how to reach me: saba.kuch.coding@gmail.com
 - or  <a href="https://www.linkedin.com/in/data-scientist-sab-k/" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
       </a>
+- <a href="https://zabokaa.github.io/front-end_1st-steps/index.html" target="_blank">my portfolio</a>
 
 
 
