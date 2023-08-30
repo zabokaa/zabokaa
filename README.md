@@ -20,7 +20,7 @@
 - :basecamp:   based in Santo Domingo, Republica Dominicana
 - 🌱  I finished my full-time 6-month Full-Stack Web Development Course in august 23 ✨✨ 💪 🤓
 - 💬  ask me if you have any questions about me or my projects
-- 📫  how to reach me: saba.kuch.coding@gmail.com
+- 📫  feel free to reach out via saba.kuch.coding@gmail.com
 - or  <a href="https://www.linkedin.com/in/data-scientist-sab-k/" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
       </a>
