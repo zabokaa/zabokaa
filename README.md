@@ -17,6 +17,7 @@
 <br>
 - 💪 pronouns: she/her
 - 🔭  I’m currently open to work remotely [or in SD or Berlin]
+- 👩‍💻 studying for my Google Cybersecurity certificate - sponsored by Yes We Tech + Google 
 - :basecamp:   based in Santo Domingo, Republica Dominicana and Berlin, Germany
 - 💬  ask me if you have any questions about me or my projects
 - 📫  feel free to reach out via saba.kuch.coding@gmail.com
